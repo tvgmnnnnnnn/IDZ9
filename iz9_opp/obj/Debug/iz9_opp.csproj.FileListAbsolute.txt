@@ -1,0 +1,11 @@
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\bin\Debug\iz9_opp.exe.config
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\bin\Debug\iz9_opp.exe
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\bin\Debug\iz9_opp.pdb
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\obj\Debug\iz9_opp.csproj.AssemblyReference.cache
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\obj\Debug\iz9_opp.csproj.SuggestedBindingRedirects.cache
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\obj\Debug\iz9_opp.Form1.resources
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\obj\Debug\iz9_opp.Properties.Resources.resources
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\obj\Debug\iz9_opp.csproj.GenerateResource.cache
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\obj\Debug\iz9_opp.csproj.CoreCompileInputs.cache
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\obj\Debug\iz9_opp.exe
+C:\h,\учеба\3 курс\ОПП\C#\iz9_opp\obj\Debug\iz9_opp.pdb
